@@ -37,8 +37,6 @@ Also took into account how the use of images affect the page's performance and e
       3. DPI mode
       4. Color quality
 
-In detecting the images issues was very useful the Google Console tool for auditing the page known as Lighthouse and RespImageLint.
-
 ## Page auditing tools
 
 1. Lighthouse
@@ -47,6 +45,7 @@ In detecting the images issues was very useful the Google Console tool for audit
       2. Accesibility
       3. SEO
       4. Best practices
-   2. RespImageLint used to detect images's issues.
+2. RespImageLint
+   1. Used to detect images's issues.
 
 ### The idea came from the Wes Bos's great course [CSS Grid](https://courses.wesbos.com/).
