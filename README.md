@@ -9,6 +9,7 @@ Also took into account how the use of images affect the page's performance and e
 ![GitHub top language](https://img.shields.io/github/languages/top/jpmti2016/css-grid-album)
 ![GitHub language count](https://img.shields.io/github/languages/count/jpmti2016/css-grid-album)
 ![W3C Validation](https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Fjpmti2016.github.io%2Fcss-grid-album%2F)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fjpmti2016.github.io%2Fcss-grid-album%2F)
 
 ## CSS Grid properties used
 
